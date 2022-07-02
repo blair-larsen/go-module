@@ -28,8 +28,8 @@ func main() {
 
 	extrapkg.PrintExtra()
 
-	//fmt.Println(morestrings.ReverseRunes("larsen"))
-	//fmt.Println(hello - mod.ReverseRunes("larsen"))
-	fmt.Println(hellomod.ReverseRunes("larsen"))
+	//	fmt.Println(hellomod.ReverseRunes("larsen"))
+	//hellomod.PrintHello()
+	hellomod.PrintTest()
 
 }
