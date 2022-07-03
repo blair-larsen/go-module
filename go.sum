@@ -1,5 +1,9 @@
 github.com/blair-larsen/hellomod v0.0.0-20220702150413-2d0ae7106b25 h1:lzv7B3hOmluXf939Zl3VfbF3pry1GUsU6zmT3eBRu5Y=
 github.com/blair-larsen/hellomod v0.0.0-20220702150413-2d0ae7106b25/go.mod h1:GupIlPvkf7qhJhWw1ITAuZOw7X3p6CU8mbrlVe7b0wI=
+github.com/blair-larsen/hellomod v0.0.0-20220702152222-eca6cd924bf5 h1:x8EUoQi3Y3DsZyLxg7Zz04SWzOAY632Bca447l4KWuc=
+github.com/blair-larsen/hellomod v0.0.0-20220702152222-eca6cd924bf5/go.mod h1:GupIlPvkf7qhJhWw1ITAuZOw7X3p6CU8mbrlVe7b0wI=
+github.com/blair-larsen/hellomod v0.0.0-20220702225558-29a1af34b082 h1:tXAy515H4EScD+si8zfWY+EymTSew+muxgvcZyeBWYY=
+github.com/blair-larsen/hellomod v0.0.0-20220702225558-29a1af34b082/go.mod h1:GupIlPvkf7qhJhWw1ITAuZOw7X3p6CU8mbrlVe7b0wI=
 github.com/cpuguy83/go-md2man/v2 v2.0.2/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NHg9XEKhtSvM=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
