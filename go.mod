@@ -4,7 +4,7 @@ go 1.18
 
 require github.com/spf13/cobra v1.5.0
 
-require github.com/blair-larsen/hellomod v0.0.0-20220702225558-29a1af34b082 // indirect
+require github.com/blair-larsen/hellomod v0.0.0-20220703151730-28ad6772351e
 
 //require github.com/blair-larsen/hellomod v0.0.0-20220702005722-0fff712ec6a7 // indirect
 
